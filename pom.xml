@@ -431,12 +431,12 @@
                         </dependencies>
                     </plugin>
                 </plugins>
-            </build>
+         
 
 
 
 	<!--Your comment added by me-->
-		<build>
+		
     <plugins>
         <plugin>
             <groupId>org.codehaus.mojo</groupId>
