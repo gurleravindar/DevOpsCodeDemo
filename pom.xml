@@ -423,7 +423,7 @@
                         <groupId>org.codehaus.mojo</groupId>
                         <artifactId>cobertura-maven-plugin</artifactId>
 <!-- added by me -->
-                        <version>2.7</version> 
+                        <version>1.9.4.1</version> 
                         <!-- <version>${cobertura.version}</version> -->
                         <configuration>
                             <formats>
